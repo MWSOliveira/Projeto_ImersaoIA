@@ -7,6 +7,6 @@ Projeto para fins de avaliação na Imersão IA Alura+Google de **Assistente de 
     - arquivos de imagens digitais de vestuário (extensões sugeridas: jpg, jpeg, png) na pasta de execução do código.
     - primeira interação com o chatbot **necessariamente** é um endereço local de uma imagem digital
 
-Após executar todas as células, há uma célula de teste de acesso e visualização das imagens e uma de interação de fato com o chatbot.
+Após executar todas as células, há uma célula de teste de acesso e visualização das imagens e, na sequência, a célula de interações com o chatbot.
 
 Para melhor acessibilidade, futuramente, pretendo oportunizar inputs diretamente de uma câmera de celular e outputs em áudio.
