@@ -11,4 +11,6 @@ Projeto para fins de avaliação na Imersão IA Alura+Google de **Assistente de 
 
 Após executar todas as células, há uma célula de teste de acesso e visualização das imagens e, na sequência, a célula de interações com o chatbot.
 
+Deixo alguns arquivos de imagens para testes. para usá-las, estas imagens devem ser baixadas localmente e adicionadas no ambiente do Colab. Para isto basta: clicar no ícone "Arquivos" > clicar com botão direito e "Nova Pasta" > nomear como "images" > clicar com botão direito em "images" > selecionar "upload" > selecionar os arquivos desejados.
+
 Para melhor acessibilidade, futuramente, pretendo oportunizar inputs diretamente de uma câmera de celular e outputs em áudio.
